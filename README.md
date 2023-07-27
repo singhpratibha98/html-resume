@@ -14,3 +14,9 @@ github repo link: https://github.com/singhpratibha98/html-resume/blob/main/index
 6) here <h3> tag is use same as h1 and h2 to small the size of word.
 7) <hr/> tag is use for underline 
 8)<ul> tag is unordered list we use bullet to mention something.
+
+![Assingment -1(HTML) (3)](https://github.com/singhpratibha98/html-resume/assets/129493126/7bc51a73-0b39-450c-b534-a84d8123b5bd)
+
+9) <ol></ol> tag is ordered list we use to give 1, 2,3 etc to sentence at different line.
+10) <dl></dl> tag, <dt></dt> tag and <dd></dd> tag is used if we want to give subheading and there content. <dd></dd> tag is in conjuction with <dl></dl>(means description list) and <dt></dt>(means terms/names).
+11) <pre></pre> tag is use if we want to copy as it is what is written.
