@@ -8,3 +8,9 @@ github repo link: https://github.com/singhpratibha98/html-resume/blob/main/index
   4) <a> (attribute tag)- is we want or add the link there so they redirect to other page so we use the attribute tag.here (href) use that the link redirect to other page and open at new page.
   5) <h2></h2> denote that we have to write something is just small size as compare to h1 tag.
   
+  
+![Assingment -1(HTML)  (2)](https://github.com/singhpratibha98/html-resume/assets/129493126/307933f0-ddcb-4b5d-849f-32715e2d6f80)
+
+6) here <h3> tag is use same as h1 and h2 to small the size of word.
+7) <hr/> tag is use for underline 
+8)<ul> tag is unordered list we use bullet to mention something.
